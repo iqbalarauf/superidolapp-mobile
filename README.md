@@ -11,7 +11,7 @@ dengan teknologi saat ini.
 
 Diinisiasi pada 24 Desember 2023
 
-Baca lebih lanjut mengenai integrasi portfolio ini di:\n
-iqbalarauf.my.id/superidolapp (soon)\n
-... (Requirement Document)\n
-... (UI/UX Initiate Presentation)\n
+Baca lebih lanjut mengenai integrasi portfolio ini di: <br />
+iqbalarauf.my.id/superidolapp (soon) <br />
+... (Requirement Document) <br />
+... (UI/UX Initiate Presentation)
