@@ -1,16 +1,17 @@
-# superidolapp
+# Super Idol App (Mobile Apps)
 
-A new Flutter project.
+Ini adalah project Super Idol App dalam versi mobile app (Flutter)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ini adalah sebuah proyek untuk portfolio terintegrasi di 2024 dari IqbalARauf
+Terdiri atas sebuah proyek website berbasis PHP-Laravel dan FLutter untuk mobile apps
+SuperIdol App ini terinspirasi dari website grup idola JKT48, yang direplikasi menyesuaikan
+dengan teknologi saat ini.
 
-A few resources to get you started if this is your first Flutter project:
+Diinisiasi pada 24 Desember 2023
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Baca lebih lanjut mengenai integrasi portfolio ini di:
+iqbalarauf.my.id/superidolapp (soon)
+... (Requirement Document)
+... (UI/UX Initiate Presentation)
