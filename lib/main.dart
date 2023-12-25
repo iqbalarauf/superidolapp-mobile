@@ -64,6 +64,9 @@ class HomePage extends StatelessWidget {
             Container(
               margin: EdgeInsets.only(top: 10, left: 8),
               height: 150,
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.all(Radius.circular(12.0)),
+              ),
               child: ListView(
                 scrollDirection: Axis.horizontal,
                 children: <Widget>[
