@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:superidolapp/bottommenu.dart';
 
 void main() {
   runApp(const MyApp());
@@ -90,6 +91,16 @@ class HomePage extends StatelessWidget {
             ),
           ],
         ),
+      ),
+      bottomNavigationBar: BottomNavigationBar(
+        items: [
+          BottomNavigationBarItem(
+              icon: Icon(Icons.home, color: Color.fromARGB(39, 67, 1, 247)),
+              label: "Home"),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.history, color: Color.fromARGB(39, 67, 1, 247)),
+              label: "Riwayat"),
+        ],
       ),
     );
   }
