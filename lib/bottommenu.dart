@@ -27,6 +27,10 @@ class _MainMenuState extends State<MainMenu> {
           BottomNavigationBarItem(
               icon: Icon(Icons.history, color: Color.fromARGB(39, 67, 1, 247)),
               label: "Riwayat"),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.usb_rounded,
+                  color: Color.fromARGB(39, 67, 1, 247)),
+              label: "Akun"),
         ],
       ),
     );
